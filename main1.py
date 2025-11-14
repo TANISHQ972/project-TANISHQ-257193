@@ -1,99 +1,99 @@
-# # # # # # # # # # # text = "helloworld"
-# # # # # # # # # # # print(text.upper())
+# text = "helloworld"
+# print(text.upper())
 
-# # # # # # # # # # # text = "HELLOWORLD"
-# # # # # # # # # # # print(text.lower())
+# text = "HELLOWORLD"
+# print(text.lower())
 
-# # # # # # # # # # # text = "hello world"
-# # # # # # # # # # # print(text.strip())
+# text = "hello world"
+# print(text.strip())
 
-# # # # # # # # # # # text = "hello world"
-# # # # # # # # # # # print(text.replace("world", "there"))
+# text = "hello world"
+# print(text.replace("world", "there"))
 
-# # # # # # # # # # # text = "hello world"
-# # # # # # # # # # # print(text.split(" "))
+# text = "hello world"
+# print(text.split(" "))
 
-# # # # # # # # # # #formate string
+#formate string
 
-# # # # # # # # # # Name= "ritik"
-# # # # # # # # # # age = 20
-# # # # # # # # # # print(f"my name is {Name} and my age is {age}")
+# Name= "ritik"
+# age = 20
+# print(f"my name is {Name} and my age is {age}")
 
-# # # # # # # # # x = 5
-# # # # # # # # # x+=3
-# # # # # # # # # print(x)
+# x = 5
+# x+=3
+# print(x)
 
-# # # # # # # # # x = 10
-# # # # # # # # # x-=2
-# # # # # # # # # print(x)
+# x = 10
+# x-=2
+# print(x)
 
-# # # # # # # # # x = 10
-# # # # # # # # # x*=2
-# # # # # # # # # print(x)
+# x = 10
+# x*=2
+# print(x)
 
-# # # # # # # # #comparion operators
+#comparion operators
 
-# # # # # # # # x=5
-# # # # # # # # y=10
-# # # # # # # # print(x==y)
-# # # # # # # # print(x!=y)
-# # # # # # # # print(x>y)  
-# # # # # # # # print(x<y)
-# # # # # # # # print(x>=y) 
-# # # # # # # # print(x<)
-
-
-# # # # # # # #student["age"]=21
-# # # # # # # #student["city"]= "delhi"
-# # # # # # # #print(student)
-
-# # # # # # # #if else
-
-# # # # # # # age = 21
-# # # # # # # if age >= 21:
-# # # # # # #     print("you are adult")       
-# # # # # # # else:
-# # # # # # #     print("you are not adult")
-
-# # # # # # age = 16
-
-# # # # # # if age>18:
-# # # # # #     print("you are adult")
-
-# # # # # #     elif age==18:
-# # # # # #         print("you are teen")
-
-# # # # # #         else:
-# # # # # #             print("you are not adult")
+# x=5
+# y=10
+# print(x==y)
+# print(x!=y)
+# print(x>y)  
+# print(x<y)
+# print(x>=y) 
+# print(x<)
 
 
-# # # # # x=15
+#student["age"]=21
+#student["city"]= "delhi"
+#print(student)
 
-# # # # # if x>10:
-# # # # #     print("x is greater than 10")
+#if else
 
-# # # # #     if x>20:
-# # # # #         print("x is greateryhan 20")
+# age = 21
+# if age >= 21:
+#     print("you are adult")       
+# else:
+#     print("you are not adult")
+
+# age = 16
+
+# if age>18:
+#     print("you are adult")
+
+#     elif age==18:
+#         print("you are teen")
+
+#         else:
+#             print("you are not adult")
+
+
+# x=15
+
+# if x>10:
+#     print("x is greater than 10")
+
+#     if x>20:
+#         print("x is greateryhan 20")
     
-# # # # #     else:
-# # # # #         print("x is not greater than 20")
+#     else:
+#         print("x is not greater than 20")
 
-# # # # x = 8
+# x = 8
 
-# # # # if x/2:
-# # # #     print("x is even number")
+# if x/2:
+#     print("x is even number")
 
-# # # # else:
-# # # #     print("x is not even number")
+# else:
+#     print("x is not even number")
 
 
-# # # x=9
+# x=9
 
-# # # if x%2:
-# # #     print("x is odd number")
+# if x%2:
+#     print("x is odd number")
 
-# # # else:
-# # #     print("x is not odd number")
+# else:
+#     print("x is not odd number")
 
 
 # # word= "python"
@@ -145,34 +145,34 @@
 # # result = add(5,3)
 # # print(result)
 
-# # def add(a,b):
-# #  return a * b
+# def add(a,b):
+#  return a * b
 
-# # result = add(5,3)
-# # print(result)
+# result = add(5,3)
+# print(result)
 
 
-# # def greet(name ="student"):
-# #    print(f"hello, {name}!")
+# def greet(name ="student"):
+#    print(f"hello, {name}!")
 
-# #    greet()
-# #    greet("ritik")
+#    greet()
+#    greet("ritik")
 
 
 # x = 10
 
 
-# # def myfunc():
-# #     y=5
-# #     print("inside",x,y)
-# # myfunc()
-# # print("outside",x)
+# def myfunc():
+#     y=5
+#     print("inside",x,y)
+# myfunc()
+# print("outside",x)
 
 
-# # def greet():
-# #     print("hello")
+# def greet():
+#     print("hello")
 
-# # greet()
+# greet()
 
 
 # #OOPS IN PYTHON
@@ -232,4 +232,5 @@ import pandas as pd
 
 data = [10,20,30,40]
 s=pd.Series(data)
+
 print(s)
